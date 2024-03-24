@@ -15,3 +15,4 @@ if (soma > n3) {
 } else if ((soma = n3)) {
   console.log("A soma de A + B é igual a  C");
 }
+
